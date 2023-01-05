@@ -3,6 +3,10 @@
       {
         "category" : "normal",
         "message" : "Announcements can be made instantly and displayed over here"
+      },
+      {
+        "category" : "danger",
+        "message" : "No entry to school without proper school attire"
       }
    ]
 }
