@@ -1,0 +1,8 @@
+{
+  "announcements" : [
+      {
+        "category" : "normal",
+        "message" : "Announcements can be made instantly and displayed over here"
+      }
+   ]
+}
